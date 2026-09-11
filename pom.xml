@@ -28,9 +28,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:https://github.com/PIH/openmrs-config-ces.git</connection>
-        <developerConnection>scm:git:https://github.com/PIH/openmrs-config-ces.git</developerConnection>
-        <url>https://github.com/PIH/openmrs-config-ces</url>
+        <connection>scm:git:https://github.com/PIH/ces-emr.git</connection>
+        <developerConnection>scm:git:https://github.com/PIH/ces-emr.git</developerConnection>
+        <url>https://github.com/PIH/ces-emr</url>
         <tag>HEAD</tag>
     </scm>
 
