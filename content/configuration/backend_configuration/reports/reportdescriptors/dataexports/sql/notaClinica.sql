@@ -115,6 +115,7 @@ CASE encounter_location
     when 'Casa Materna' then 'Unidad de salud Jaltenango de la Paz'
     when 'CER' then 'Unidad de salud Jaltenango de la Paz'
     when 'CES Oficina' then 'Unidad de salud Jaltenango de la Paz'
+    when 'CSJ' then 'Unidad de salud Jaltenango de la Paz'
     when 'Hospital' then 'Unidad de salud Jaltenango de la Paz'
     when 'Pediatria' then 'Unidad de salud Jaltenango de la Paz'
     else encounter_location
@@ -154,6 +155,7 @@ CASE registration_location_name
     when 'Casa Materna' then 'Unidad de salud Jaltenango de la Paz'
     when 'CER' then 'Unidad de salud Jaltenango de la Paz'
     when 'CES Oficina' then 'Unidad de salud Jaltenango de la Paz'
+    when 'CSJ' then 'Unidad de salud Jaltenango de la Paz'
     when 'Hospital' then 'Unidad de salud Jaltenango de la Paz'
     when 'Pediatria' then 'Unidad de salud Jaltenango de la Paz'
     else encounter_location

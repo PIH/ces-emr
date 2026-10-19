@@ -146,6 +146,7 @@ CASE location_name
 	when 'Surgery' then 'Unidad de salud Jaltenango de la Paz'
 	when 'Hospital' then 'Unidad de salud Jaltenango de la Paz'
 	when 'CES Oficina' then 'Unidad de salud Jaltenango de la Paz'
+	when 'CSJ' then 'Unidad de salud Jaltenango de la Paz'
 	when 'CER' then 'Unidad de salud Jaltenango de la Paz'
 	when 'Casa Materna' then 'Unidad de salud Jaltenango de la Paz'
 	when 'Patient Home' then 'Unidad de salud Jaltenango de la Paz'
