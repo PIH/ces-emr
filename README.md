@@ -104,8 +104,11 @@ openmrs-docker ces-ci create
 # Optional, but speeds up initial startup
 openmrs-docker ces-ci initialize --from-image partnersinhealth/ces-emr-seed-mexico:latest
 openmrs-docker ces-ci start
-openmrs-docker ces-ci wait  # Tails logs until OpenMRS is ready, then exits
+openmrs-docker ces-ci wait  # until every service is ready
 ```
+
+New to these tools? [Getting to know the tools](https://github.com/PIH/openmrs-contrib-distro-tools/blob/main/docs/getting-to-know-the-tools.md) walks through what
+`openmrs-docker` and `pihx` can do.
 
 Once created, day-to-day commands only need the instance name:
 
